@@ -30,7 +30,7 @@ SQLite database for storage
 
   ## API Endpoints
 Transactions
-POST /transactions/ → Create transaction
-GET /transactions/ → Get all transactions
-PUT /transactions/{id} → Update transaction
-DELETE /transactions/{id} → Delete transaction
+1.POST /transactions/ → Create transaction
+2.GET /transactions/ → Get all transactions
+3.PUT /transactions/{id} → Update transaction
+4.DELETE /transactions/{id} → Delete transaction
