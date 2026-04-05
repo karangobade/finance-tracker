@@ -3,7 +3,7 @@
 A simple backend system built using FastAPI to manage financial records like income and expenses.
 This project focuses on clean structure, basic API design, and handling financial data efficiently.
 
-🚀 Features
+ ## Features
 Create, update, delete financial transactions
 View all transactions
 Filter records by type, category, or date
